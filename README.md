@@ -8,4 +8,5 @@ Clonar el repo y seguir los pasos de [esta guía](https://github.com/idontdomath
 Parado en el directorio `data`:
 - `pip install wget`
 - `python download.py`
+
 La operación puede tardar hasta varias horas en descargar todos los archivos
