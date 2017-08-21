@@ -101,5 +101,5 @@ ENV/
 .mypy_cache/
 
 # Datos del TP
-data/
+data/properati-*
 
