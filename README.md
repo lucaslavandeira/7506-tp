@@ -6,6 +6,7 @@ Clonar el repo y seguir los pasos de [esta guía](https://github.com/idontdomath
 
 ## Datos procesados
 https://drive.google.com/open?id=0Bz2O-MbGLsDjNVRGUXhPZXJzRkE
+Una vez descargado, ubicar el archivo en el directorio `data` del proyecto
 
 ## Descarga de datos sin procesar
 Parado en el directorio `data`:
