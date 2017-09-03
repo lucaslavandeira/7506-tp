@@ -102,4 +102,6 @@ ENV/
 
 # Datos del TP
 data/properati-*
+data/full_data.csv
+data/data_gba_total.csv
 
